@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    background-color: rgb(202, 216, 202);
+}
+
+h2 {
+    color: #a26d6d;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    
+}
+
+/* Add more styles as needed */
